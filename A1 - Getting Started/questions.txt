@@ -1,0 +1,52 @@
+1. Why do we use a text editor rather than a word processor for this exercise?
+a. A word processor saves extra characters to control formatting whereas a text editor saves text with minimal formatting
+b. Not all word processor files are interchangeable but text files are generally interchangeable
+c. Word processors tend to be slow to start and complex to use while text editors are fast and simple to use
+d. Most word processors can save files as plain text but we have to take care to specify the plain text format
+2. What is your personal Canvas login (NOT your password)?
+JoChun6363
+3. What do you do if you are late to class?
+Enter quietly and do not disrupt what is in progress.
+4. Where is the instructor's contact information located?
+On the instructor's website.
+5. How do you get to the instructor's office from the classroom?
+Office Location: Room 827 
+6. What is CodeLab and why must you spend $25 to purchase it?
+It is a software that helps you learn code. You must spend 25 dollars to gain full access to all of its exercises. 
+7. What compiler must you use for this course?
+g++
+8. What are three things you should do to succeed in this course?
+Technical Skills, patience and time
+9. How many hours per week can you expect to spend on this course outside of the classroom?
+6-10 hours a week
+10. What is scholastic honesty?
+Scholastic dishonesty is any act designed to give an unfair or undeserved academic advantage.
+11.What is an example of acceptable help and an example of unacceptable help on assignments?
+a. Showing others how to use, or solve problems with, computer applications such as compilers, text-editors and debuggers, or receiving such help.
+b. Discussing problems and ideas for solving problems with other students or tutors.
+c. Describing your algorithms to other students using diagrams, psuedocode or natural-language statements (unless that was the assigned homework).
+d. Looking at another person's code and pointing out an error, as long as you do not write, type, dictate, or otherwise communicate the actual program code required by the assignment.
+12. What is the Web address (URL) where all homework assignments are listed?
+www.edparrish.net
+13. What items are due for the first assignment (list them)?
+compiling.txt
+learning.txt
+questions.txt
+an executable file.
+image of yourself.
+14. When is the first assignment due and how do you turn it in?
+9/7/17 and by Canvas
+15. How many late assignments are accepted and how long do you have to complete a late assignment?
+No late assignments are accepted except a single one-time exception of up to two days late.
+16. When are you allowed to use computers (even your own) in the classroom?
+During class only at specified times and for specified activities.
+17. Is cell phone use during class a disruptive behavior?
+Yes
+18. What are the consequences of disruptive behavior?
+First incident: discussion and verbal warning.
+Second incident: Dismissal from the class and possibly the next class period, Filing of a Disruptive Behavior Report with the Dean of Student Services, Reporting of the incident to the Division Dean and Meeting with the instructor during office hours to write an agreement on future behavior in the class
+Third incident: Dropped from the class or given a failing grade after the last drop time has passed, Filing of a Disruptive Behavior Report with the Dean of Student Services and Reporting of the incident to the Division Dean
+19. What food or drink is allowed in the classroom, if any?
+No food in the classroom and drinks only in a spill-proof container.
+20. When emailing the instructor, what three pieces of information should you include at a minimum?
+Coursenumber and first and last name.

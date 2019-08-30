@@ -1,0 +1,5 @@
+comment is messed up
+didnt spell hello there right
+divide by zero error
+doesnt return an integer
+extra "<" in the cout

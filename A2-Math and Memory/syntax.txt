@@ -1,0 +1,15 @@
+a) No, it doesn't because the comment is not actually part of the code itself.
+
+b)
+Student@829UP017 ~
+$ g++ -Wall -Wextra -Wpedantic -std=c++11 -o hellome hellome.cpp
+hellome.cpp: In function ‘int main()’:
+hellome.cpp:12:5: error: ‘cout’ was not declared in this scope
+     cout << "hello, joseph";
+     ^
+hellome.cpp:12:5: note: suggested alternative:
+In file included from hellome.cpp:8:0:
+/usr/lib/gcc/i686-pc-cygwin/5.4.0/include/c++/iostream:61:18: note:   ‘std::cou ’
+   extern ostream cout;  /// Linked to standard output
+                  ^
+
